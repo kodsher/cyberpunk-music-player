@@ -13,7 +13,7 @@ const songs = [
 		title: "Machinery of War",
 		artist: "Evgeny Bardyuzha",
 		image: "https://res.cloudinary.com/tropicolx/image/upload/v1675352152/music_app/machinery-of-war_fqu8z6.jpg",
-		src: "https://github.com/kodsher/cyberpunk-music-player/blob/023eac51fdbd50d0e61346a053790923be38d208/Live%20guitar%20flamenco%20in%20Granada%20Espa%C3%B1a.mp3",
+		src: "https://github.com/kodsher/cyberpunk-music-player/blob/023eac51fdbd50d0e61346a053790923be38d208/Live%20guitar%20flamenco%20in%20Granada%20Espa%C3%B1a.mp3?raw=True",
 	},
 	{
 		id: 1,
