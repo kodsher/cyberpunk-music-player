@@ -17,7 +17,7 @@ const songs = [
 	},
 	{
 		id: 1,
-		title: "Nova",
+		title: "Nova1",
 		artist: "2050",
 		image: "https://res.cloudinary.com/tropicolx/image/upload/v1675351835/music_app/song-2_ljg2wd.jpg",
 		src: "https://res.cloudinary.com/tropicolx/video/upload/v1675218402/music_app/Kryptos_-_Medusa_yyj3nc.mp3",
